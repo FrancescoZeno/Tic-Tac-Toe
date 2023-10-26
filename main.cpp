@@ -1,7 +1,7 @@
 /**================================================================================================
  * *                                           INFO
  *  Autore: Francesco Zeno
- *  @email: zkekko11@gmail.com
+ *  @email: kekkoz.dev@gmail.com
  *  File:   main.cpp
  *  Vers: 1.0
  *  Data:  26/10/2023
